@@ -1,0 +1,16 @@
+{
+  "name": "stand-up",
+  "version": "1.0.0",
+  "description": "api для сервиса регистрации на stend-up",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Andruxa",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
